@@ -1,4 +1,4 @@
-SlimOTA
+Xtended OTA is based on SlimOTA
 -------
 A very simple OTA checker with Android Settings look and feel.
 
